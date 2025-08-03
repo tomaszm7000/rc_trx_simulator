@@ -55,7 +55,7 @@ cd [/sciezka/do/katalogu/]APP
 python3 rcsim.py
 ```
 
-#### Wersja angielska:
+#### English version:
 
 ```bash
 cd [patch/to/your/catalogue/]APP
